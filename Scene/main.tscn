@@ -1,0 +1,10 @@
+[gd_scene format=3 uid="uid://scpql4e5k0t"]
+
+[node name="Main" type="Node2D" unique_id=1087221496]
+
+[node name="CanvasLayer" type="CanvasLayer" parent="." unique_id=1155580590]
+
+[node name="Label" type="Label" parent="CanvasLayer" unique_id=463615041]
+offset_right = 40.0
+offset_bottom = 23.0
+text = "School Simulator "
